@@ -3,7 +3,8 @@ taboo game with flutter
 
 Video
 
-[Uploading untitled.webm…]()
+[untitled.webm](https://github.com/gorkemirk/Taboo-Game/assets/57559440/0cc56f6b-5840-40ac-b13d-3e73e11b2d6b)
+
 
 
 ScreenShots
