@@ -1,0 +1,4113 @@
+[
+    {
+        "ana_kelime": "TAVLA",
+        "alt_kelimeler": [
+            "ZAR",
+            "OYUN",
+            "YENMEK",
+            "MARS",
+            "KAPI"
+        ]
+    },
+    {
+        "ana_kelime": "GOOGLE",
+        "alt_kelimeler": [
+            "ARAMA MOTORU",
+            "BİLGİSAYAR",
+            "İNTERNET",
+            "SİTE",
+            "SAYFA"
+        ]
+    },
+    {
+        "ana_kelime": "BILL GATES",
+        "alt_kelimeler": [
+            "ZENGİN",
+            "MICROSOFT",
+            "PARA",
+            "PC",
+            "WINDOWS"
+        ]
+    },
+    {
+        "ana_kelime": "OKEY",
+        "alt_kelimeler": [
+            "ZAR",
+            "ISTAKA",
+            "TAŞ",
+            "4 KİŞİ",
+            "OYUN"
+        ]
+    },
+    {
+        "ana_kelime": "PARA",
+        "alt_kelimeler": [
+            "KAĞIT",
+            "DOLAR",
+            "SATINALMA",
+            "ÜLKE",
+            "KAZANMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ÇORAP",
+        "alt_kelimeler": [
+            "İNCE",
+            "KAÇMAK",
+            "TEN RENGİ",
+            "PARİZYEN",
+            "AYAK"
+        ]
+    },
+    {
+        "ana_kelime": "KALEM",
+        "alt_kelimeler": [
+            "KURŞUN",
+            "TÜKENMEZ",
+            "DOLMA",
+            "KAĞIT",
+            "ÇİZGİ"
+        ]
+    },
+    {
+        "ana_kelime": "AŞK",
+        "alt_kelimeler": [
+            "KALP",
+            "BAYAN&ERKEK",
+            "TUTKU",
+            "KIRMIZI",
+            "SEKS"
+        ]
+    },
+    {
+        "ana_kelime": "MOUSE",
+        "alt_kelimeler": [
+            "FARE",
+            "BİLGİSAYAR",
+            "KLAVYE",
+            "TUŞ",
+            "KLİK"
+        ]
+    },
+    {
+        "ana_kelime": "TAKVİM",
+        "alt_kelimeler": [
+            "YIL",
+            "AY",
+            "HAFTA",
+            "GÜN",
+            "SAYI"
+        ]
+    },
+    {
+        "ana_kelime": "TELEFON",
+        "alt_kelimeler": [
+            "ALO",
+            "AHİZE",
+            "TUŞ",
+            "SES",
+            "NUMARA"
+        ]
+    },
+    {
+        "ana_kelime": "MÜCEVHER",
+        "alt_kelimeler": [
+            "KADIN",
+            "TAKI",
+            "ALTIN",
+            "BİLEZİK",
+            "KOLYE"
+        ]
+    },
+    {
+        "ana_kelime": "OJE",
+        "alt_kelimeler": [
+            "TIRNAK",
+            "RENK",
+            "SÜRMEK",
+            "ASETON",
+            "MANİKÜR"
+        ]
+    },
+    {
+        "ana_kelime": "ŞİMŞEK",
+        "alt_kelimeler": [
+            "GÖKYÜZÜ",
+            "YAĞMUR",
+            "IŞIK",
+            "KALP KRİZİ",
+            "KORKU"
+        ]
+    },
+    {
+        "ana_kelime": "STETESKOP",
+        "alt_kelimeler": [
+            "SES",
+            "KALP",
+            "DOKTOR",
+            "BOYUN",
+            "KULAK"
+        ]
+    },
+    {
+        "ana_kelime": "HASTALIK",
+        "alt_kelimeler": [
+            "HASTANE",
+            "HASTA",
+            "DOKTOR",
+            "HEMŞİRE",
+            "İLAÇ"
+        ]
+    },
+    {
+        "ana_kelime": "KAFATASI",
+        "alt_kelimeler": [
+            "BEYİN",
+            "SAÇ",
+            "KEMİK",
+            "ARKEOLOJİ",
+            "KAZI"
+        ]
+    },
+    {
+        "ana_kelime": "GAGA",
+        "alt_kelimeler": [
+            "KUŞ",
+            "YEMEK",
+            "YAVRU",
+            "SOLUCAN",
+            "AĞAÇKAKAN"
+        ]
+    },
+    {
+        "ana_kelime": "AHİZE",
+        "alt_kelimeler": [
+            "TELEFON",
+            "SES",
+            "ALO",
+            "TUŞ",
+            "KABİN"
+        ]
+    },
+    {
+        "ana_kelime": "ÇERÇEVE",
+        "alt_kelimeler": [
+            "CAM",
+            "RESİM",
+            "PİMAPEN",
+            "AHŞAP",
+            "GÖZLÜK"
+        ]
+    },
+    {
+        "ana_kelime": "REÇETE",
+        "alt_kelimeler": [
+            "DOKTOR",
+            "İLAÇ",
+            "İMZA",
+            "HASTANE",
+            "ECZANE"
+        ]
+    },
+    {
+        "ana_kelime": "AKREP",
+        "alt_kelimeler": [
+            "BURÇ",
+            "SAAT",
+            "YELKOVAN",
+            "ZAMAN",
+            "İBRE"
+        ]
+    },
+    {
+        "ana_kelime": "APLİK",
+        "alt_kelimeler": [
+            "DUVAR",
+            "IŞIK",
+            "LAMBA",
+            "AYDINLIK",
+            "SÜS"
+        ]
+    },
+    {
+        "ana_kelime": "FUTBOL",
+        "alt_kelimeler": [
+            "TOP",
+            "İDDAA",
+            "KALE",
+            "STADYUM",
+            "MAÇ"
+        ]
+    },
+    {
+        "ana_kelime": "BANKA",
+        "alt_kelimeler": [
+            "MÜŞTERİ",
+            "PARA",
+            "HESAP",
+            "ÇEK",
+            "KREDİ KARTI"
+        ]
+    },
+    {
+        "ana_kelime": "DÜĞÜN",
+        "alt_kelimeler": [
+            "GELİN",
+            "DAMAT",
+            "MİSAFİR",
+            "YÜZÜK",
+            "EVLENMEK"
+        ]
+    },
+    {
+        "ana_kelime": "ARABA",
+        "alt_kelimeler": [
+            "ULASIM",
+            "ARAC",
+            "HIZ",
+            "FREN",
+            "GAZ"
+        ]
+    },
+    {
+        "ana_kelime": "UCAK",
+        "alt_kelimeler": [
+            "UCMAK",
+            "HAVA",
+            "HIZ",
+            "HOSTES",
+            "PILOT"
+        ]
+    },
+    {
+        "ana_kelime": "EV",
+        "alt_kelimeler": [
+            "ODA",
+            "SALON",
+            "WC",
+            "YASAMAK",
+            "YUVA"
+        ]
+    },
+    {
+        "ana_kelime": "OFIS",
+        "alt_kelimeler": [
+            "CALISMAK",
+            "PARA",
+            "FOTOKOPI",
+            "FAKS",
+            "TELEFON"
+        ]
+    },
+    {
+        "ana_kelime": "OTEL",
+        "alt_kelimeler": [
+            "UYUMAK",
+            "TATIL",
+            "HIZMET",
+            "PALAS",
+            "MASAJ"
+        ]
+    },
+    {
+        "ana_kelime": "DOST",
+        "alt_kelimeler": [
+            "GUVEN",
+            "SAMIMI",
+            "DURUST",
+            "NAMUSLU",
+            "AHLAKLI"
+        ]
+    },
+    {
+        "ana_kelime": "MASA",
+        "alt_kelimeler": [
+            "CEKMECE",
+            "BILGISAYAR",
+            "YEMEK",
+            "KALEM",
+            "DOSYA"
+        ]
+    },
+    {
+        "ana_kelime": "BILGISAYAR",
+        "alt_kelimeler": [
+            "FARE",
+            "EKRAN",
+            "WINDOWS",
+            "EXCEL",
+            "WORD"
+        ]
+    },
+    {
+        "ana_kelime": "PARA",
+        "alt_kelimeler": [
+            "EV",
+            "ARABA",
+            "GAYRIMENKUL",
+            "MENKUL",
+            "BONO"
+        ]
+    },
+    {
+        "ana_kelime": "BORSA",
+        "alt_kelimeler": [
+            "INIS",
+            "CIKIS",
+            "HİSSE",
+            "SUPEKILASYON",
+            "BROKER"
+        ]
+    },
+    {
+        "ana_kelime": "KAZAK",
+        "alt_kelimeler": [
+            "YUN",
+            "IPLIK",
+            "SICAK",
+            "ORME",
+            "YASAK"
+        ]
+    },
+    {
+        "ana_kelime": "BALIK",
+        "alt_kelimeler": [
+            "FIRIN",
+            "TAVA",
+            "ROKA",
+            "HELVA",
+            "OLTA"
+        ]
+    },
+    {
+        "ana_kelime": "SILAH",
+        "alt_kelimeler": [
+            "SAVUNMA",
+            "SALDIRI",
+            "MERMI",
+            "NAMLU",
+            "ATEŞ ETMEK"
+        ]
+    },
+    {
+        "ana_kelime": "TURKIYE",
+        "alt_kelimeler": [
+            "ATATURK",
+            "CENNET",
+            "BUYUK",
+            "ISTANBUL",
+            "ÜLKE"
+        ]
+    },
+    {
+        "ana_kelime": "EXCEL",
+        "alt_kelimeler": [
+            "OFFİCE",
+            "BİLGİSAYUAR",
+            "TABLO",
+            "FORMÜL",
+            "WORD"
+        ]
+    },
+    {
+        "ana_kelime": "KALECİ",
+        "alt_kelimeler": [
+            "FUTBOL",
+            "TOP",
+            "GOL",
+            "ELDİVEN",
+            "PENALTI"
+        ]
+    },
+    {
+        "ana_kelime": "YENİÇERİ",
+        "alt_kelimeler": [
+            "OSMANLI",
+            "TÜRK",
+            "ASKER",
+            "ASAKERİ MUHAMMED",
+            "KAZAN KALDIRMAK"
+        ]
+    },
+    {
+        "ana_kelime": "BİSİKLET",
+        "alt_kelimeler": [
+            "TEKERLEK",
+            "DİREKSİYON",
+            "PEDAL",
+            "FREN",
+            "ÇOCUK"
+        ]
+    },
+    {
+        "ana_kelime": "KARYOLA",
+        "alt_kelimeler": [
+            "YATAK",
+            "RANZA",
+            "YASTIK",
+            "AHŞAP",
+            "KAT"
+        ]
+    },
+    {
+        "ana_kelime": "BANKA",
+        "alt_kelimeler": [
+            "PARA",
+            "FAİZ",
+            "ZENGİN",
+            "HIRSIZ",
+            "SOYGUN"
+        ]
+    },
+    {
+        "ana_kelime": "BÖCEK",
+        "alt_kelimeler": [
+            "ZEHİR",
+            "HAYVAN",
+            "YARATIK",
+            "SİNEK",
+            "HAŞERE"
+        ]
+    },
+    {
+        "ana_kelime": "FATURA",
+        "alt_kelimeler": [
+            "BORÇ",
+            "KAĞIT",
+            "POSTACI",
+            "PARA",
+            "FİŞ"
+        ]
+    },
+    {
+        "ana_kelime": "AŞÇI",
+        "alt_kelimeler": [
+            "YEMEK",
+            "MESLEK",
+            "ÖNLÜK",
+            "MUTFAK",
+            "YİYECEK"
+        ]
+    },
+    {
+        "ana_kelime": "SÜRAHİ",
+        "alt_kelimeler": [
+            "SU",
+            "BARDAK",
+            "DÖKMEK",
+            "MUTFAK",
+            "HANIM"
+        ]
+    },
+    {
+        "ana_kelime": "YASTIK",
+        "alt_kelimeler": [
+            "UYKU",
+            "YUMUŞAK",
+            "TÜY",
+            "BAŞ",
+            "ORTOPEDİK"
+        ]
+    },
+    {
+        "ana_kelime": "TELEFON",
+        "alt_kelimeler": [
+            "ALO",
+            "AHİZE",
+            "CEP",
+            "KONUŞMAK",
+            "TELSİZ"
+        ]
+    },
+    {
+        "ana_kelime": "İLAÇ",
+        "alt_kelimeler": [
+            "HASTA",
+            "ATEŞ",
+            "HAP",
+            "İYİLEŞMEK",
+            "YATAK"
+        ]
+    },
+    {
+        "ana_kelime": "FOTOĞRAF MAKİNESİ",
+        "alt_kelimeler": [
+            "FLAŞ",
+            "TAB",
+            "RESİM",
+            "ÇEKİM",
+            "POZ"
+        ]
+    },
+    {
+        "ana_kelime": "DOLAP",
+        "alt_kelimeler": [
+            "RAF",
+            "KAPI",
+            "ASKI",
+            "TABAK",
+            "ELBİSE"
+        ]
+    },
+    {
+        "ana_kelime": "TÜRBAN",
+        "alt_kelimeler": [
+            "BAŞ",
+            "SAÇ",
+            "ÖRTMEK",
+            "DİN",
+            "KADIN"
+        ]
+    },
+    {
+        "ana_kelime": "KEDİ",
+        "alt_kelimeler": [
+            "SARMAN",
+            "PAMUK",
+            "TÜY",
+            "KUYRUK",
+            "ŞIMARIK"
+        ]
+    },
+    {
+        "ana_kelime": "TURİZM",
+        "alt_kelimeler": [
+            "TATİL",
+            "GEZMEK",
+            "OTEL",
+            "ŞİRKET",
+            "TUR"
+        ]
+    },
+    {
+        "ana_kelime": "AĞLAMAK",
+        "alt_kelimeler": [
+            "YAŞ",
+            "GÖZ",
+            "AKMAK",
+            "SOĞAN",
+            "ÜZÜLMEK"
+        ]
+    },
+    {
+        "ana_kelime": "SAAT",
+        "alt_kelimeler": [
+            "KOL",
+            "DUVAR",
+            "ZAMAN",
+            "SAYI",
+            "AKILLI"
+        ]
+    },
+    {
+        "ana_kelime": "OKUL",
+        "alt_kelimeler": [
+            "ÖĞRENCİ",
+            "ÖĞRETMEN",
+            "DEFTER",
+            "KALEM",
+            "ZİL"
+        ]
+    },
+    {
+        "ana_kelime": "BANKA",
+        "alt_kelimeler": [
+            "PARA",
+            "HESAP",
+            "MEMUR",
+            "MÜDÜR",
+            "MÜŞTERİ"
+        ]
+    },
+    {
+        "ana_kelime": "MASA",
+        "alt_kelimeler": [
+            "YEMEK",
+            "BACAK",
+            "SANDALYE",
+            "ÖRTÜ",
+            "MOBİLYA"
+        ]
+    },
+    {
+        "ana_kelime": "ANAHTAR",
+        "alt_kelimeler": [
+            "KİLİT",
+            "METAL",
+            "KASA",
+            "KAPI",
+            "ÇİLİNGİR"
+        ]
+    },
+    {
+        "ana_kelime": "GÖZLÜK",
+        "alt_kelimeler": [
+            "MİYOP",
+            "RENKLİ",
+            "TAKMAK",
+            "GÜNEŞ",
+            "GÖRMEK"
+        ]
+    },
+    {
+        "ana_kelime": "SİNEMA",
+        "alt_kelimeler": [
+            "BİLET",
+            "BAHŞİŞ",
+            "FİLM",
+            "KARANLIK",
+            "PATLAMIŞ MISIR"
+        ]
+    },
+    {
+        "ana_kelime": "REPO",
+        "alt_kelimeler": [
+            "MENKUL KIYMET",
+            "BANKA",
+            "LİKİT",
+            "FON",
+            "GECE"
+        ]
+    },
+    {
+        "ana_kelime": "FİNCAN",
+        "alt_kelimeler": [
+            "ÇAY",
+            "KAHVE",
+            "SICAK",
+            "KULP",
+            "İÇMEK"
+        ]
+    },
+    {
+        "ana_kelime": "KUMBARA",
+        "alt_kelimeler": [
+            "PARA",
+            "BİRİKTİRMEK",
+            "YATIRIM",
+            "BANKA",
+            "SAKLAMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ÇANTA",
+        "alt_kelimeler": [
+            "KAPKAÇCI",
+            "CÜZDAN",
+            "KADIN",
+            "EŞYA",
+            "KOLA TAKMAK"
+        ]
+    },
+    {
+        "ana_kelime": "EMZİK",
+        "alt_kelimeler": [
+            "EMMEK",
+            "BEBEK",
+            "NAYLON",
+            "AĞLAMAK",
+            "MEME"
+        ]
+    },
+    {
+        "ana_kelime": "PARFÜM",
+        "alt_kelimeler": [
+            "KOKU",
+            "GÜZEL",
+            "MİS GİBİ",
+            "SIKMAK",
+            "TERLEMEK"
+        ]
+    },
+    {
+        "ana_kelime": "BANKA",
+        "alt_kelimeler": [
+            "YATIRIM",
+            "PARA",
+            "SAKLAMAK",
+            "FİNANS",
+            "KREDİ"
+        ]
+    },
+    {
+        "ana_kelime": "GÖZLÜK",
+        "alt_kelimeler": [
+            "GÖZ",
+            "CAM",
+            "CERÇEVE",
+            "TEKMAK",
+            "BAKMAK"
+        ]
+    },
+    {
+        "ana_kelime": "GEMİ",
+        "alt_kelimeler": [
+            "DENİZ",
+            "FİLİKA",
+            "YOLCU",
+            "KAPTAN",
+            "PALAMAR"
+        ]
+    },
+    {
+        "ana_kelime": "OTOMOBİL",
+        "alt_kelimeler": [
+            "TEKERLEK",
+            "DİREKSİYON",
+            "MOTOR YAĞI",
+            "KORNA",
+            "EMNİYET KEMERİ"
+        ]
+    },
+    {
+        "ana_kelime": "TELEFON",
+        "alt_kelimeler": [
+            "ŞEBEKE",
+            "GSM",
+            "KONTÖR",
+            "HAT",
+            "AHİZE"
+        ]
+    },
+    {
+        "ana_kelime": "MAYMUN",
+        "alt_kelimeler": [
+            "HAYVAN",
+            "MUZ",
+            "ŞEBEKLİK",
+            "EVRİM",
+            "ÇİKİTA"
+        ]
+    },
+    {
+        "ana_kelime": "KREM",
+        "alt_kelimeler": [
+            "VÜCUT",
+            "SIVI",
+            "EL",
+            "KOZMETİK",
+            "İLAÇ"
+        ]
+    },
+    {
+        "ana_kelime": "ANTİKA",
+        "alt_kelimeler": [
+            "MÜZAYEDE",
+            "ZENGİN",
+            "ESKİ",
+            "TABLO",
+            "PARA"
+        ]
+    },
+    {
+        "ana_kelime": "PAPYON",
+        "alt_kelimeler": [
+            "BALO",
+            "ERKEK",
+            "KRAVAT",
+            "SMOKİN",
+            "GÖMLEK"
+        ]
+    },
+    {
+        "ana_kelime": "KAHVE",
+        "alt_kelimeler": [
+            "ZEVK",
+            "KAFEİN",
+            "SİGARA",
+            "SÜT TOZU",
+            "FİNCAN"
+        ]
+    },
+    {
+        "ana_kelime": "MOUSE",
+        "alt_kelimeler": [
+            "BİLGİSAYAR",
+            "TIKLAMA",
+            "İNTERNET",
+            "PARMAK",
+            "FARE"
+        ]
+    },
+    {
+        "ana_kelime": "PET ŞİŞE",
+        "alt_kelimeler": [
+            "SU",
+            "ÇÖP TENEKESİ",
+            "ATIK",
+            "NAYLON",
+            "İÇMEK"
+        ]
+    },
+    {
+        "ana_kelime": "YALAKA",
+        "alt_kelimeler": [
+            "YAĞCI",
+            "RİYAKAR",
+            "PATRON",
+            "İŞYERİ",
+            "İLTİFAT"
+        ]
+    },
+    {
+        "ana_kelime": "ASETON",
+        "alt_kelimeler": [
+            "PARMAK",
+            "OJE",
+            "SÜRMEK",
+            "MANİKÜR",
+            "SİLMEK"
+        ]
+    },
+    {
+        "ana_kelime": "KALDIRIM",
+        "alt_kelimeler": [
+            "YAYA",
+            "ARABA",
+            "GEÇİT",
+            "KAZA",
+            "YÜRÜMEK"
+        ]
+    },
+    {
+        "ana_kelime": "ÖKÜZ",
+        "alt_kelimeler": [
+            "BÜYÜKBAŞ HAYVAN",
+            "BOYNUZ",
+            "TREN",
+            "İNEK",
+            "ET"
+        ]
+    },
+    {
+        "ana_kelime": "ÇALMAK",
+        "alt_kelimeler": [
+            "ARAKLAMAK",
+            "HIRSIZ",
+            "EV",
+            "İZİN",
+            "POLİS"
+        ]
+    },
+    {
+        "ana_kelime": "ORMANCI",
+        "alt_kelimeler": [
+            "MÜZEYYEN SENAR",
+            "BALTA",
+            "AĞAÇ",
+            "YÜRÜYÜŞ",
+            "KULUBE"
+        ]
+    },
+    {
+        "ana_kelime": "TABUT",
+        "alt_kelimeler": [
+            "ÖLÜ",
+            "CENAZE",
+            "MORG",
+            "NAMAZ",
+            "MEZARLIK"
+        ]
+    },
+    {
+        "ana_kelime": "YÜRÜYEN MERDİVEN",
+        "alt_kelimeler": [
+            "ALIŞVERİŞ MERKEZİ",
+            "BASAMAK",
+            "ELEKTRİK",
+            "ÇIKMAK",
+            "YAŞLI"
+        ]
+    },
+    {
+        "ana_kelime": "DVD",
+        "alt_kelimeler": [
+            "CD",
+            "PLAYER",
+            "FİLM",
+            "KALİTE",
+            "GÖRÜNTÜ"
+        ]
+    },
+    {
+        "ana_kelime": "NEVŞEHİR",
+        "alt_kelimeler": [
+            "İL",
+            "KAPADOKYA",
+            "ÜRGÜP",
+            "PERİ BACASI",
+            "GÖREME"
+        ]
+    },
+    {
+        "ana_kelime": "MEHMET ALİ ERBİL",
+        "alt_kelimeler": [
+            "ŞEBEK",
+            "SOYTARI",
+            "ÇARKIFELEK",
+            "KAHPE BİZANS",
+            "YARIŞMA"
+        ]
+    },
+    {
+        "ana_kelime": "PROJE",
+        "alt_kelimeler": [
+            "İNŞAAT",
+            "MİMAR",
+            "MÜHENDİS",
+            "CETVEL",
+            "ÇİZİM"
+        ]
+    },
+    {
+        "ana_kelime": "FRANSA",
+        "alt_kelimeler": [
+            "ERMENİ SOYKIRIMI",
+            "PARİS",
+            "EIFEL",
+            "MONACO",
+            "CHRIAK (ŞİRAK)"
+        ]
+    },
+    {
+        "ana_kelime": "MSN",
+        "alt_kelimeler": [
+            "İNTERNET",
+            "CHAT",
+            "ARKADAŞ",
+            "KAMERA",
+            "ADRES"
+        ]
+    },
+    {
+        "ana_kelime": "KASVET",
+        "alt_kelimeler": [
+            "SIKINTI",
+            "GAM ",
+            "KEDER",
+            "NEŞE",
+            "KARANLIK"
+        ]
+    },
+    {
+        "ana_kelime": "KİMYON",
+        "alt_kelimeler": [
+            "BAHARAT",
+            "KÖFTE",
+            "KARABİBER",
+            "NANE",
+            "KEKİK"
+        ]
+    },
+    {
+        "ana_kelime": "ESKİMO",
+        "alt_kelimeler": [
+            "KUTUP",
+            "BUZUL",
+            "KAR",
+            "İGLO",
+            "BALIK"
+        ]
+    },
+    {
+        "ana_kelime": "PANDA",
+        "alt_kelimeler": [
+            "SOY",
+            "AYI",
+            "BEYAZ",
+            "OYUNCAK",
+            "NESLİ TÜKENMEK"
+        ]
+    },
+    {
+        "ana_kelime": "PRİNTER",
+        "alt_kelimeler": [
+            "YAZICI",
+            "KAĞIT",
+            "BİLGİSAYAR",
+            "DÖKÜM",
+            "WORD"
+        ]
+    },
+    {
+        "ana_kelime": "KUMANDA",
+        "alt_kelimeler": [
+            "ZAPLAMA",
+            "DÜĞME",
+            "TELEVİZYON",
+            "UZAK",
+            "BASMAK"
+        ]
+    },
+    {
+        "ana_kelime": "SAYISAL LOTO",
+        "alt_kelimeler": [
+            "İKRAMİYE",
+            "ŞANS",
+            "TALİH KUŞU",
+            "PARA",
+            "ÇEKİLİŞ"
+        ]
+    },
+    {
+        "ana_kelime": "PASAPORT",
+        "alt_kelimeler": [
+            "YURT DIŞI",
+            "ELÇİLİK",
+            "SEYAHAT",
+            "BAŞVURU",
+            "EVRAK"
+        ]
+    },
+    {
+        "ana_kelime": "SİFON",
+        "alt_kelimeler": [
+            "TUVALET",
+            "KOKU",
+            "İHTİYAÇ",
+            "ÇEKMEK",
+            "KLOZET"
+        ]
+    },
+    {
+        "ana_kelime": "MÜSLÜM GÜRSES",
+        "alt_kelimeler": [
+            "ARABESK",
+            "JİLET",
+            "KONSER",
+            "ŞARHOŞ",
+            "MUHTEREM NUR"
+        ]
+    },
+    {
+        "ana_kelime": "İSKENDER KEBAP",
+        "alt_kelimeler": [
+            "BURSA",
+            "DÖNER",
+            "TEREYAĞ",
+            "PİDE",
+            "ET"
+        ]
+    },
+    {
+        "ana_kelime": "AKIL HASTANESİ",
+        "alt_kelimeler": [
+            "DELİ",
+            "PSİKİYATRİST",
+            "GÖMLEK",
+            "HUNİ",
+            "GÜLHANE"
+        ]
+    },
+    {
+        "ana_kelime": "TOSBAĞA",
+        "alt_kelimeler": [
+            "ARABA",
+            "ESKİ",
+            "VOSVOS",
+            "KAPLUMBAĞA",
+            "KABUK"
+        ]
+    },
+    {
+        "ana_kelime": "ELMA",
+        "alt_kelimeler": [
+            "AĞAÇ",
+            "TATLI",
+            "KIRMIZI",
+            "MEYVA",
+            "YEMEK"
+        ]
+    },
+    {
+        "ana_kelime": "ECZANE",
+        "alt_kelimeler": [
+            "ECZACI",
+            "İLAÇ",
+            "REÇETE",
+            "KALFA",
+            "HASTA"
+        ]
+    },
+    {
+        "ana_kelime": "PUZZLE",
+        "alt_kelimeler": [
+            "YAP BOZ",
+            "RESİM",
+            "BULMACA",
+            "KARTON",
+            "OYUN"
+        ]
+    },
+    {
+        "ana_kelime": "KALP",
+        "alt_kelimeler": [
+            "ORGAN",
+            "YAŞAM",
+            "KRİZ",
+            "AŞK",
+            "KAN KIRMIZI"
+        ]
+    },
+    {
+        "ana_kelime": "KELEBEK",
+        "alt_kelimeler": [
+            "TIRTIL",
+            "UÇMAK",
+            "RENKLİ",
+            "ÇİÇEK",
+            "KOZA"
+        ]
+    },
+    {
+        "ana_kelime": "BABA",
+        "alt_kelimeler": [
+            "MAFYA",
+            "ÇOCUK",
+            "ERKEK",
+            "ANNE",
+            "AİLE"
+        ]
+    },
+    {
+        "ana_kelime": "GÖZLÜK",
+        "alt_kelimeler": [
+            "GÖRMEK",
+            "GÖZ",
+            "ÇERÇEVE",
+            " ORGANİK CAM",
+            "GÜNEŞ"
+        ]
+    },
+    {
+        "ana_kelime": "GÜNEŞ",
+        "alt_kelimeler": [
+            "SARI",
+            "SICAKLIK,ISITMAK",
+            "YUVARLAK",
+            "SİSTEM",
+            "DOĞMAK"
+        ]
+    },
+    {
+        "ana_kelime": "BULUT",
+        "alt_kelimeler": [
+            "GÖKYÜZÜ",
+            "MAVİ",
+            "GÜNEŞ",
+            "YAĞMUR",
+            "HAVA"
+        ]
+    },
+    {
+        "ana_kelime": "ZEUS",
+        "alt_kelimeler": [
+            "ESKİ YUNAN",
+            "MİTOLOJİ",
+            "ANTİK ŞEHİR TANRISI",
+            "OLİMPOS DAĞI",
+            "HEYKEL"
+        ]
+    },
+    {
+        "ana_kelime": "RAKI",
+        "alt_kelimeler": [
+            "KADEH",
+            "ANASON",
+            "ICMEK",
+            "MEZE",
+            "ASLAN SÜTÜ"
+        ]
+    },
+    {
+        "ana_kelime": "SENER SEN",
+        "alt_kelimeler": [
+            "YESILCAM",
+            "ESKIYA",
+            "IKINCI BAHAR",
+            "AKTOR",
+            "BADİ EKREM"
+        ]
+    },
+    {
+        "ana_kelime": "SEVGILILER GUNU",
+        "alt_kelimeler": [
+            "14 SUBAT",
+            "ASK",
+            "HEDIYE",
+            "KIRMIZI GUL",
+            "ÇİÇEK"
+        ]
+    },
+    {
+        "ana_kelime": "EXCEL",
+        "alt_kelimeler": [
+            "MICROSOFT OFFICE",
+            "TABLO",
+            "PROGRAM",
+            "RAKAM",
+            "ISLEM"
+        ]
+    },
+    {
+        "ana_kelime": "I TUNES",
+        "alt_kelimeler": [
+            "MUZIK",
+            "WINAMP",
+            "MP3",
+            "LISTE",
+            "SARKI"
+        ]
+    },
+    {
+        "ana_kelime": "HINDISTAN",
+        "alt_kelimeler": [
+            "BAHARAT",
+            "GUNEY ASYA",
+            "GHANDI",
+            "IPEK YOLU",
+            "ULKE"
+        ]
+    },
+    {
+        "ana_kelime": "UNIVERSITE",
+        "alt_kelimeler": [
+            "EGITIM",
+            "OKUL",
+            "OSS",
+            "OGRENCI",
+            "FAKULTE"
+        ]
+    },
+    {
+        "ana_kelime": "GERDEK GECESI",
+        "alt_kelimeler": [
+            "GELIN GUVEY",
+            "DUGUN",
+            "EVLENMEK",
+            "YATAK",
+            "BEKARET"
+        ]
+    },
+    {
+        "ana_kelime": "TANRI",
+        "alt_kelimeler": [
+            "INANMAK",
+            "ALLAH",
+            "ELCI",
+            "PEYGAMBER",
+            "DIN"
+        ]
+    },
+    {
+        "ana_kelime": "ORGANIZE ISLER",
+        "alt_kelimeler": [
+            "YILMAZ ERDOGAN",
+            "HIRSIZLIK",
+            "SINEMA FILMI",
+            "SUPERMEN",
+            "NIL KARAIBRAHIMGIL"
+        ]
+    },
+    {
+        "ana_kelime": "HAMAM",
+        "alt_kelimeler": [
+            "SAUNA ",
+            "MASAJ",
+            "TELLAK",
+            "TAKUNYA",
+            "KESE"
+        ]
+    },
+    {
+        "ana_kelime": "SOZLUK",
+        "alt_kelimeler": [
+            "KELIME",
+            "TANIM",
+            "CUMLE",
+            "DIL",
+            "ANLAM"
+        ]
+    },
+    {
+        "ana_kelime": "PENGUEN",
+        "alt_kelimeler": [
+            "KARIKATUR",
+            "KUTUPLAR",
+            "HAYVAN",
+            "YIGIT OZGUR",
+            "ERDAL YASAROGLU"
+        ]
+    },
+    {
+        "ana_kelime": "PANSIYON",
+        "alt_kelimeler": [
+            "YATAK",
+            "TATIL",
+            "KLIMA",
+            "BOS ODA",
+            "SAHIL"
+        ]
+    },
+    {
+        "ana_kelime": "KAPADOKYA",
+        "alt_kelimeler": [
+            "GOREME",
+            "URGUP",
+            "SARAP",
+            "YERALTI SEHRI",
+            "TATIL"
+        ]
+    },
+    {
+        "ana_kelime": "NAZAR BONCUGU",
+        "alt_kelimeler": [
+            "GOZ",
+            "MAVI",
+            "COCUK",
+            "CENGELLI IGNE",
+            "TAKMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ANAHTAR",
+        "alt_kelimeler": [
+            "CILINGIR",
+            "KAPI",
+            "KILIT",
+            "UNUTMAK",
+            "ACMAK"
+        ]
+    },
+    {
+        "ana_kelime": "AVRUPA YAKASI",
+        "alt_kelimeler": [
+            "ISTANBUL",
+            "DIZI",
+            "GULSE BIRSEL",
+            "ATV",
+            "CARSAMBA"
+        ]
+    },
+    {
+        "ana_kelime": "GONUL YARASI",
+        "alt_kelimeler": [
+            "SINEMA FILMI",
+            "SENER SEN ",
+            "MELTEM CUMBUL",
+            "NAZIM",
+            "SAMATYA"
+        ]
+    },
+    {
+        "ana_kelime": "BABAM VE OGLUM",
+        "alt_kelimeler": [
+            "SINEMA FILMI",
+            "ÇAĞAN IRMAK",
+            "DEDE",
+            "AĞLAMAK",
+            "HÜMEYRA"
+        ]
+    },
+    {
+        "ana_kelime": "NEW YORK",
+        "alt_kelimeler": [
+            "A.B.D.",
+            "GEORGE BUSH",
+            "METRO",
+            "OZGURLUK ANITI",
+            "CENTRAL PARK"
+        ]
+    },
+    {
+        "ana_kelime": "İNTERNET",
+        "alt_kelimeler": [
+            "MAİL",
+            "MODEM",
+            "ADSL",
+            "CHAT",
+            "CAFE"
+        ]
+    },
+    {
+        "ana_kelime": "SAĞDIÇ",
+        "alt_kelimeler": [
+            "DAMAT",
+            "DÜĞÜN",
+            "GELİN",
+            "GÜVEY",
+            "SIRTINA VURMAK"
+        ]
+    },
+    {
+        "ana_kelime": "GÖKTAŞI",
+        "alt_kelimeler": [
+            "UZAY",
+            "ALEV TOPU",
+            "ÇARPMAK",
+            "KRATER",
+            "METEOR"
+        ]
+    },
+    {
+        "ana_kelime": "HOKKABAZ",
+        "alt_kelimeler": [
+            "SİHİRBAZ",
+            "İLLÜZYONİST",
+            "MANDRAKE",
+            "HİLEBAZ",
+            "CEM YILMAZ"
+        ]
+    },
+    {
+        "ana_kelime": "KOBRA",
+        "alt_kelimeler": [
+            "YILAN",
+            "SÜRÜNGEN",
+            "HAYVAN",
+            "ÇINGIRAKLI YILAN",
+            "PİTON"
+        ]
+    },
+    {
+        "ana_kelime": "DÜĞÜN",
+        "alt_kelimeler": [
+            "GELİN",
+            "DAMAT",
+            "PASTA",
+            "YÜZÜK",
+            "NİKAH MEMURU"
+        ]
+    },
+    {
+        "ana_kelime": "KIRMIZI GÜL",
+        "alt_kelimeler": [
+            "AŞK",
+            "SEVGİ",
+            "ÇİÇEK",
+            "YILDÖNÜMÜ",
+            "BUKET"
+        ]
+    },
+    {
+        "ana_kelime": "ÇELENK",
+        "alt_kelimeler": [
+            "CENAZE",
+            "DÜĞÜN",
+            "ÇİÇEK",
+            "BUKET",
+            "İSİM"
+        ]
+    },
+    {
+        "ana_kelime": "GÖZYAŞI",
+        "alt_kelimeler": [
+            "AĞLAMAK",
+            "GÖZ",
+            "SU",
+            "SİLMEK",
+            "MENDİL"
+        ]
+    },
+    {
+        "ana_kelime": "ABAJUR",
+        "alt_kelimeler": [
+            "LAMBA",
+            "AVİZE",
+            "IŞIK",
+            "APLİK",
+            "KİTAP OKUMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ÇINGIRAK",
+        "alt_kelimeler": [
+            "YILAN",
+            "BEBEK",
+            "ÇAN",
+            "ZİL",
+            "SÜRÜNGEN"
+        ]
+    },
+    {
+        "ana_kelime": "ELMA",
+        "alt_kelimeler": [
+            "YASAK",
+            "MEYVE",
+            "ARMUT",
+            "KIRMIZI",
+            "ADEM HAVVA"
+        ]
+    },
+    {
+        "ana_kelime": "GİRDAP",
+        "alt_kelimeler": [
+            "ANAFOR",
+            "BURGAÇ",
+            "DÖNMEK",
+            "SU",
+            "DENİZ"
+        ]
+    },
+    {
+        "ana_kelime": "KULAK MEMESİ",
+        "alt_kelimeler": [
+            "ORGAN",
+            "DUYU",
+            "SES",
+            "GÖĞÜS",
+            "KEPÇE"
+        ]
+    },
+    {
+        "ana_kelime": "SİLİKON",
+        "alt_kelimeler": [
+            "DUDAK",
+            "GÖĞÜS",
+            "KADIN",
+            "PATLAMAK",
+            "ŞİŞMEK"
+        ]
+    },
+    {
+        "ana_kelime": "HEYELAN",
+        "alt_kelimeler": [
+            "TOPRAK KAYMASI",
+            "AĞAÇ",
+            "YAĞMUR",
+            "STEP",
+            "ÇAMUR"
+        ]
+    },
+    {
+        "ana_kelime": "KAYMAK",
+        "alt_kelimeler": [
+            "SÜT",
+            "SKİ",
+            "KAYDIRAK",
+            "BAL",
+            "TATLI"
+        ]
+    },
+    {
+        "ana_kelime": "BOYNUZ",
+        "alt_kelimeler": [
+            "KULAK",
+            "ALDATMAK",
+            "BOĞA",
+            "KEÇİ",
+            "GEYİK"
+        ]
+    },
+    {
+        "ana_kelime": "SABAHLIK",
+        "alt_kelimeler": [
+            "SABAH",
+            "ROPDÖŞAMBR",
+            "GİYİNMEK",
+            "GİYSİ",
+            "KAHVALTI"
+        ]
+    },
+    {
+        "ana_kelime": "KAZULET",
+        "alt_kelimeler": [
+            "AZMAN",
+            "KOCAMAN",
+            "UZUN",
+            "KOSKOCA",
+            "DEV"
+        ]
+    },
+    {
+        "ana_kelime": "HÖRGÜÇ",
+        "alt_kelimeler": [
+            "DEVE",
+            "KAMBUR",
+            "ŞİŞKİNLİK",
+            "SU",
+            "BİNMEK"
+        ]
+    },
+    {
+        "ana_kelime": "NOTA",
+        "alt_kelimeler": [
+            "SOL ANAHTARI",
+            "DİYEZ",
+            "BEMOL",
+            "ES",
+            "BESTE"
+        ]
+    },
+    {
+        "ana_kelime": "KAZIK",
+        "alt_kelimeler": [
+            "ODUN",
+            "SOPA",
+            "PAHALI",
+            "YÜKSEK FİYATLI",
+            "ZOR"
+        ]
+    },
+    {
+        "ana_kelime": "EBE",
+        "alt_kelimeler": [
+            "JİNEKOLOG",
+            "DOĞUM",
+            "KADIN DOKTORU",
+            "OYUN",
+            "SAKLAMBAÇ"
+        ]
+    },
+    {
+        "ana_kelime": "İKTİDAR",
+        "alt_kelimeler": [
+            "OTORİTE",
+            "MUHALEFET",
+            "YETKİ",
+            "KUVVET",
+            "PARTİ"
+        ]
+    },
+    {
+        "ana_kelime": "KULUÇKA",
+        "alt_kelimeler": [
+            "TAVUK",
+            "HOROZ",
+            "YUMURTA",
+            "CİVCİV",
+            "KÜMES"
+        ]
+    },
+    {
+        "ana_kelime": "ŞEYTAN",
+        "alt_kelimeler": [
+            "CEHENNEM",
+            "ZEBANİ",
+            "MELEK",
+            "GÜNAH",
+            "SEVAP"
+        ]
+    },
+    {
+        "ana_kelime": "KELİME",
+        "alt_kelimeler": [
+            "YASAK",
+            "YASAK",
+            "YASAK",
+            "YASAK",
+            "YASAK"
+        ]
+    },
+    {
+        "ana_kelime": "BÖRÜLCE",
+        "alt_kelimeler": [
+            "SEBZE",
+            "BAKLA",
+            "FASULYE",
+            "FAVA",
+            "GÖRÜMCE"
+        ]
+    },
+    {
+        "ana_kelime": "DEMİRBAŞ",
+        "alt_kelimeler": [
+            "OFİS",
+            "BÜRO EŞYASI",
+            "DEĞİŞMEZ",
+            "ESKİ",
+            "MALZEME"
+        ]
+    },
+    {
+        "ana_kelime": "KİVİ",
+        "alt_kelimeler": [
+            "PATATES",
+            "MEYVE",
+            "YEŞİL",
+            "TROPİK",
+            "ÇEKİRDEK"
+        ]
+    },
+    {
+        "ana_kelime": "JÖLE",
+        "alt_kelimeler": [
+            "SAÇ",
+            "SÜRMEK",
+            "TİTREMEK",
+            "SALLANMAK",
+            "ISLAK"
+        ]
+    },
+    {
+        "ana_kelime": "MASKARA",
+        "alt_kelimeler": [
+            "SOYTARI",
+            "RİMEL",
+            "ŞAKLABAN",
+            "GÖZ",
+            "KİRPİK"
+        ]
+    },
+    {
+        "ana_kelime": "RAKI",
+        "alt_kelimeler": [
+            "MEZE",
+            "BOĞMA",
+            "MASTİKA",
+            "ASLAN SÜTÜ",
+            "ANASON"
+        ]
+    },
+    {
+        "ana_kelime": "KEŞ",
+        "alt_kelimeler": [
+            "ZOM",
+            "ALKOLİK",
+            "İÇKİCİ",
+            "İÇKİ",
+            "AKŞAMDAN KALMA"
+        ]
+    },
+    {
+        "ana_kelime": "KETÇAP",
+        "alt_kelimeler": [
+            "DOMATES SOSU",
+            "MAKARNA",
+            "PATATES",
+            "MAYONEZ",
+            "DÖK DÖK YE"
+        ]
+    },
+    {
+        "ana_kelime": "KUPA PAPAZI",
+        "alt_kelimeler": [
+            "RIFKI",
+            "KING",
+            "İSKAMBİL",
+            "KAĞIT",
+            "OYUN"
+        ]
+    },
+    {
+        "ana_kelime": "ANTİKA",
+        "alt_kelimeler": [
+            "DEĞERLİ",
+            "ESKİ",
+            "TİP",
+            "CİNS",
+            "MÜCEVHER"
+        ]
+    },
+    {
+        "ana_kelime": "JAPON BALIĞI",
+        "alt_kelimeler": [
+            "AKVARYUM",
+            "FANUS",
+            "TURUNCU",
+            "TATLI SU",
+            "GÖL"
+        ]
+    },
+    {
+        "ana_kelime": "SARMAŞIK",
+        "alt_kelimeler": [
+            "BİTKİ",
+            "YAPRAK",
+            "TIRMANAN BİTKİ",
+            "SARMAK",
+            "SARILMAK"
+        ]
+    },
+    {
+        "ana_kelime": "GÖBEK BAĞI",
+        "alt_kelimeler": [
+            "KORDON",
+            "KESMEK",
+            "DELİK",
+            "ÇUKUR",
+            "BEBEK"
+        ]
+    },
+    {
+        "ana_kelime": "APSE",
+        "alt_kelimeler": [
+            "İLTİHAP",
+            "DİŞ",
+            "SİVİLCE",
+            "ERGENLİK",
+            "AĞRIMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ŞEHVET",
+        "alt_kelimeler": [
+            "ARZU",
+            "İSTEK",
+            "TUTKU",
+            "CAZİBE",
+            "KADIN"
+        ]
+    },
+    {
+        "ana_kelime": "AYRILMAK",
+        "alt_kelimeler": [
+            "TERK ETMEK",
+            "İSTİFA ETMEK",
+            "BIRAKMAK",
+            "GİTMEK",
+            "UZAKLAŞMAK"
+        ]
+    },
+    {
+        "ana_kelime": "YUMUŞAK",
+        "alt_kelimeler": [
+            "SERT",
+            "GEVŞEK",
+            "ESNEK",
+            "LASTİK",
+            "DOKUNMAK"
+        ]
+    },
+    {
+        "ana_kelime": "KOVUK",
+        "alt_kelimeler": [
+            "İN",
+            "MAĞARA",
+            "OYUK",
+            "BARINAK",
+            "HAYVAN"
+        ]
+    },
+    {
+        "ana_kelime": "ZİNA",
+        "alt_kelimeler": [
+            "İHANET",
+            "ALDATMAK",
+            "BİRLİKTE OLMAK",
+            "SADAKAT",
+            "KANDIRMAK"
+        ]
+    },
+    {
+        "ana_kelime": "TERAZİ",
+        "alt_kelimeler": [
+            "TARTI",
+            "BASKÜL",
+            "KANTAR",
+            "KEFE",
+            "TARTMAK"
+        ]
+    },
+    {
+        "ana_kelime": "CANKURTARAN",
+        "alt_kelimeler": [
+            "BOĞULMAK",
+            "DENİZ",
+            "SAHİL",
+            "AMBULANS",
+            "KURTARMAK"
+        ]
+    },
+    {
+        "ana_kelime": "HEYKEL",
+        "alt_kelimeler": [
+            "SANAT",
+            "RESİM",
+            "DÜŞÜNEN ADAM",
+            "BÜST",
+            "YONTMAK"
+        ]
+    },
+    {
+        "ana_kelime": "FİLOLOJİ",
+        "alt_kelimeler": [
+            "DİL BİLİM",
+            "LİSAN",
+            "İNGİLİZCE",
+            "DİL VE EDEBİYAT",
+            "ÜNİVERSİTE"
+        ]
+    },
+    {
+        "ana_kelime": "İMLA KILAVUZU",
+        "alt_kelimeler": [
+            "KELİME",
+            "DOĞRU",
+            "YANLIŞ",
+            "REHBER",
+            "KONTROL"
+        ]
+    },
+    {
+        "ana_kelime": "ADEM ELMASI",
+        "alt_kelimeler": [
+            "ERKEK",
+            "GIRTLAK",
+            "ÇIKINTI",
+            "MEYVE",
+            "HAVVA"
+        ]
+    },
+    {
+        "ana_kelime": "RAFTING",
+        "alt_kelimeler": [
+            "AKINTI",
+            "DERE",
+            "BOT",
+            "KÜREK",
+            "SU SPORU"
+        ]
+    },
+    {
+        "ana_kelime": "NİLÜFER",
+        "alt_kelimeler": [
+            "GÖL",
+            "DERE",
+            "ÇİÇEK",
+            "KURBAĞA",
+            "KAYAHAN"
+        ]
+    },
+    {
+        "ana_kelime": "PANİK ATAK",
+        "alt_kelimeler": [
+            "HASTALIK",
+            "ÖLÜM KORKUSU",
+            "DEPRESYON",
+            "PSİKOLOJİK",
+            "TELAŞ"
+        ]
+    },
+    {
+        "ana_kelime": "ALAFRANGA",
+        "alt_kelimeler": [
+            "TUVALET",
+            "AVRUPAİ",
+            "GELENEK",
+            "ÖRF",
+            "ADET"
+        ]
+    },
+    {
+        "ana_kelime": "BALDIR",
+        "alt_kelimeler": [
+            "BACAK",
+            "UYLUK",
+            "VÜCUT",
+            "AYAK",
+            "DİZ"
+        ]
+    },
+    {
+        "ana_kelime": "NAFAKA",
+        "alt_kelimeler": [
+            "BOŞANMAK",
+            "GEÇİM",
+            "PARA",
+            "AYLIK",
+            "AYRILMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ANTİFRİZ",
+        "alt_kelimeler": [
+            "KIŞ",
+            "MOTOR",
+            "DONMAK",
+            "ÖNLEMEK",
+            "SU"
+        ]
+    },
+    {
+        "ana_kelime": "MEGALOMAN",
+        "alt_kelimeler": [
+            "KENDİNİ BEĞENMEK",
+            "KASINTI",
+            "BURNU HAVADA",
+            "KİBİR",
+            "ÖVÜNMEK"
+        ]
+    },
+    {
+        "ana_kelime": "MENTOL",
+        "alt_kelimeler": [
+            "NANE",
+            "FERAH",
+            "ŞEKER",
+            "SAKIZ",
+            "VİCKS"
+        ]
+    },
+    {
+        "ana_kelime": "MİKROBİK",
+        "alt_kelimeler": [
+            "MİKROP",
+            "VİRÜS",
+            "BULAŞICI",
+            "HASTALIK",
+            "MİKROSKOP"
+        ]
+    },
+    {
+        "ana_kelime": "SODA",
+        "alt_kelimeler": [
+            "MADEN SUYU",
+            "İÇECEK",
+            "GAZLI",
+            "KAYNAK",
+            "YER ALTI"
+        ]
+    },
+    {
+        "ana_kelime": "MANTAR",
+        "alt_kelimeler": [
+            "BEYAZ SEBZE",
+            "KÜF",
+            "NEM",
+            "ŞARAP",
+            "ŞİŞE"
+        ]
+    },
+    {
+        "ana_kelime": "MİNYATÜR",
+        "alt_kelimeler": [
+            "KÜÇÜK",
+            "PROTOTİP",
+            "UFAK",
+            "MİNİK",
+            "MİNYATÜRK"
+        ]
+    },
+    {
+        "ana_kelime": "KÜF",
+        "alt_kelimeler": [
+            "MANTAR",
+            "BAKTERİ",
+            "EKMEK",
+            "YEŞİL",
+            "KURT"
+        ]
+    },
+    {
+        "ana_kelime": "ŞİFRE",
+        "alt_kelimeler": [
+            "PAROLA",
+            "KASA",
+            "HIRSIZ",
+            "KART",
+            "BİLGİSAYAR"
+        ]
+    },
+    {
+        "ana_kelime": "HARDAL",
+        "alt_kelimeler": [
+            "BİTKİ",
+            "HAMBURGER",
+            "SOS",
+            "SARI",
+            "RENK"
+        ]
+    },
+    {
+        "ana_kelime": "SİVRİSİNEK",
+        "alt_kelimeler": [
+            "HAYVAN",
+            "UÇMAK",
+            "KAN EMMEK",
+            "İSKAMBİL KAĞIDI",
+            "GECE"
+        ]
+    },
+    {
+        "ana_kelime": "NEDİME",
+        "alt_kelimeler": [
+            "GELİN",
+            "GELİNLİK",
+            "DÜĞÜN",
+            "DAMAT",
+            "ÇİÇEK"
+        ]
+    },
+    {
+        "ana_kelime": "REKTÖR",
+        "alt_kelimeler": [
+            "ÜNİVERSİTE",
+            "DEKAN",
+            "KAMPÜS",
+            "PROFESÖR",
+            "YÖK"
+        ]
+    },
+    {
+        "ana_kelime": "DIŞ TİCARET",
+        "alt_kelimeler": [
+            "İTHALAT",
+            "İHRACAT",
+            "YABANCI",
+            "SATMAK",
+            "ÜRÜN"
+        ]
+    },
+    {
+        "ana_kelime": "TABU",
+        "alt_kelimeler": [
+            "YASAK",
+            "OYUN",
+            "CİNSELLİK",
+            "SEKS",
+            "AŞMAK"
+        ]
+    },
+    {
+        "ana_kelime": "BANKA",
+        "alt_kelimeler": [
+            "PARA",
+            "ÇEK",
+            "SENET",
+            "HAVALE",
+            "SOYGUN"
+        ]
+    },
+    {
+        "ana_kelime": "FOTOKOPİ",
+        "alt_kelimeler": [
+            "KOPYA",
+            "FOTO",
+            "BASIM",
+            "ÇOĞALTMA",
+            "SURET"
+        ]
+    },
+    {
+        "ana_kelime": "CETVEL",
+        "alt_kelimeler": [
+            "T",
+            "DÜZGÜN",
+            "UZUN",
+            "ÖLÇME",
+            "ÇİZGİ"
+        ]
+    },
+    {
+        "ana_kelime": "ORUÇ",
+        "alt_kelimeler": [
+            "İFTAR",
+            "SAHUR",
+            "RAMAZAN",
+            "AÇLIK",
+            "TERAVİH"
+        ]
+    },
+    {
+        "ana_kelime": "KRAVAT",
+        "alt_kelimeler": [
+            "BOYUN",
+            "YAKA",
+            "GÖMLEK",
+            "TAKIM ELBİSE",
+            "MEDENİYET YULARI"
+        ]
+    },
+    {
+        "ana_kelime": "ALTIN",
+        "alt_kelimeler": [
+            "KUYUMCU",
+            "SARRAF",
+            "KIYMET",
+            "ÇEYREK",
+            "TAKMAK"
+        ]
+    },
+    {
+        "ana_kelime": "SATRANÇ",
+        "alt_kelimeler": [
+            "SAH-MAT",
+            "KALE",
+            "VEZİR",
+            "PİYON",
+            "FİL"
+        ]
+    },
+    {
+        "ana_kelime": "KUMANDA",
+        "alt_kelimeler": [
+            "UZAK",
+            "TV",
+            "TUŞ",
+            "ZAP",
+            "KANAL"
+        ]
+    },
+    {
+        "ana_kelime": "ŞEMPANZE",
+        "alt_kelimeler": [
+            "MAYMUN",
+            "AYI",
+            "TIRMANMAK",
+            "AĞAÇ",
+            "İNSAN"
+        ]
+    },
+    {
+        "ana_kelime": "OKUL",
+        "alt_kelimeler": [
+            "SIRA",
+            "MASA",
+            "TAHTA",
+            "TEBEŞİR",
+            "ÖĞRENCİ"
+        ]
+    },
+    {
+        "ana_kelime": "BIYIK",
+        "alt_kelimeler": [
+            "SAKAL",
+            "TRAS",
+            "PALA",
+            "TÜKÜRMEK",
+            "KAYTAN"
+        ]
+    },
+    {
+        "ana_kelime": "FOTOGRAF",
+        "alt_kelimeler": [
+            "POZ",
+            "RESİM",
+            "ÇEKMEK",
+            "DEKLANŞÖR",
+            "FLASH"
+        ]
+    },
+    {
+        "ana_kelime": "EVLILIK",
+        "alt_kelimeler": [
+            "NİKAH",
+            "DÜĞÜN",
+            "HALAY",
+            "GELİNLİK",
+            "KARI-KOCA"
+        ]
+    },
+    {
+        "ana_kelime": "MUM",
+        "alt_kelimeler": [
+            "IŞIK",
+            "ROMANTİZM",
+            "YEMEK",
+            "ERİMEK",
+            "KOKULU"
+        ]
+    },
+    {
+        "ana_kelime": "ÇERÇEVE",
+        "alt_kelimeler": [
+            "RESİM",
+            "CAM",
+            "FOTOĞRAF",
+            "DUVAR",
+            "GÖZLÜK"
+        ]
+    },
+    {
+        "ana_kelime": "KOLYE",
+        "alt_kelimeler": [
+            "TAKI",
+            "BONCUK",
+            "ZİNCİR",
+            "BİJUTERİ",
+            "KUYUMCU"
+        ]
+    },
+    {
+        "ana_kelime": "VENEDİK",
+        "alt_kelimeler": [
+            "GONDOL",
+            "SU",
+            "ÜLKE",
+            "BALAYI",
+            "İTALYA"
+        ]
+    },
+    {
+        "ana_kelime": "BARDAK",
+        "alt_kelimeler": [
+            "SU ",
+            "İÇMEK",
+            "CAM",
+            "İNCE BELLİ",
+            "KADEH"
+        ]
+    },
+    {
+        "ana_kelime": "ÇORAP",
+        "alt_kelimeler": [
+            "AYAK",
+            "ÜŞÜMEK",
+            "KOKMAK",
+            "GİYMEK",
+            "ÜŞÜMEK"
+        ]
+    },
+    {
+        "ana_kelime": "DOKTOR",
+        "alt_kelimeler": [
+            "MESLEK",
+            "HASTA(HANE)",
+            "REÇETE",
+            "TIP",
+            "SAĞLIK"
+        ]
+    },
+    {
+        "ana_kelime": "KEK",
+        "alt_kelimeler": [
+            "PASTA",
+            "KALIP",
+            "TOP",
+            "HAMUR",
+            "YEMEK"
+        ]
+    },
+    {
+        "ana_kelime": "KAHVE",
+        "alt_kelimeler": [
+            "TÜRK",
+            "FİNCAN",
+            "FAL",
+            "CEZVE",
+            "SOHBET"
+        ]
+    },
+    {
+        "ana_kelime": "DAKTİLO",
+        "alt_kelimeler": [
+            "HARF",
+            "TUŞ",
+            "STİLO",
+            "KAĞIT",
+            "YAZMAK"
+        ]
+    },
+    {
+        "ana_kelime": "KÜLLÜK",
+        "alt_kelimeler": [
+            "SİGARA",
+            "ÇAKMAK",
+            "ATEŞ",
+            "ÇÖP",
+            "MASA "
+        ]
+    },
+    {
+        "ana_kelime": "FRANBOAZ",
+        "alt_kelimeler": [
+            "PASTA ",
+            "PASTANE",
+            "MEYVE",
+            "PEMBE",
+            "BOĞAZ"
+        ]
+    },
+    {
+        "ana_kelime": "ŞEKERLEME",
+        "alt_kelimeler": [
+            "ŞEKER",
+            "BONBON",
+            "TATLI",
+            "LOKUM",
+            "UYUKLAMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ARI",
+        "alt_kelimeler": [
+            "SAF",
+            "HALİS",
+            "KATIŞIKSIZ",
+            "YALIN",
+            "HAYVAN"
+        ]
+    },
+    {
+        "ana_kelime": "KELEBEK",
+        "alt_kelimeler": [
+            "RENKLİ",
+            "UÇMAK",
+            "TIRTIL",
+            "KOZA",
+            "HAYVAN"
+        ]
+    },
+    {
+        "ana_kelime": "DUMUR",
+        "alt_kelimeler": [
+            "KÖRELMEK",
+            "APTALLAŞMAK",
+            "ŞOK OLMAK",
+            "ŞAŞIRMAK",
+            "ŞAŞKINA DÖNMEK"
+        ]
+    },
+    {
+        "ana_kelime": "KASET",
+        "alt_kelimeler": [
+            "VİDEO",
+            "MÜZİK",
+            "ŞARKI",
+            "TEYP",
+            "BANT"
+        ]
+    },
+    {
+        "ana_kelime": "SIFIR",
+        "alt_kelimeler": [
+            "YOK",
+            "BAŞARISIZ",
+            "EN KÜÇÜK SAYI",
+            "TÜKENMEK",
+            "VERİMSİZ"
+        ]
+    },
+    {
+        "ana_kelime": "ORTALAMA",
+        "alt_kelimeler": [
+            "İKİSİ ARASINDA",
+            "ORTASINDA",
+            "YARISI",
+            "ORTA KARAR",
+            "VASATİ"
+        ]
+    },
+    {
+        "ana_kelime": "KİBRİT",
+        "alt_kelimeler": [
+            "VASATİ 40 ÇÖP",
+            "ÇAKMAK",
+            "ATEŞ",
+            "SİGARA",
+            "YAKMAK"
+        ]
+    },
+    {
+        "ana_kelime": "AVOKADO",
+        "alt_kelimeler": [
+            "AMERİKA",
+            "ARMUT",
+            "TROPİK",
+            "MEYVE",
+            "ANANAS"
+        ]
+    },
+    {
+        "ana_kelime": "PARAŞÜT",
+        "alt_kelimeler": [
+            "UÇAK",
+            "ATLAMAK",
+            "UÇMAK",
+            "HAVADA SÜZÜLMEK",
+            "BALON"
+        ]
+    },
+    {
+        "ana_kelime": "KARA KUTU",
+        "alt_kelimeler": [
+            "UÇAK",
+            "PİLOT",
+            "HAVA",
+            "SES KAYDI",
+            "ENKAZ"
+        ]
+    },
+    {
+        "ana_kelime": "UZLAŞMAK",
+        "alt_kelimeler": [
+            "ANLAŞMAK",
+            "İŞBİRLİĞİ",
+            "İTTİFAK",
+            "MUTABAKAT",
+            "UYUŞMA"
+        ]
+    },
+    {
+        "ana_kelime": "BALON",
+        "alt_kelimeler": [
+            "UYDURMA HABER",
+            "PALAVRA",
+            "UÇMAK",
+            "ÇOCUK",
+            "HELYUM"
+        ]
+    },
+    {
+        "ana_kelime": "MAYO",
+        "alt_kelimeler": [
+            "BİKİNİ",
+            "ŞORT",
+            "TANGA",
+            "DENİZ",
+            "HAVUZ"
+        ]
+    },
+    {
+        "ana_kelime": "PARAZİT",
+        "alt_kelimeler": [
+            "CIZIRTI",
+            "ASALAK",
+            "TENYA",
+            "AMİP",
+            "KÖPEK BALIĞI"
+        ]
+    },
+    {
+        "ana_kelime": "SUCUK",
+        "alt_kelimeler": [
+            "ET",
+            "BAHARAT",
+            "SALAM",
+            "SOSİS",
+            "PASTIRMA"
+        ]
+    },
+    {
+        "ana_kelime": "KANAT",
+        "alt_kelimeler": [
+            "UÇMAK",
+            "MELEK",
+            "UÇAK",
+            "KUŞ",
+            "TAVUK"
+        ]
+    },
+    {
+        "ana_kelime": "BARON",
+        "alt_kelimeler": [
+            "KONT",
+            "ASİL",
+            "SOYLU",
+            "POLAT",
+            "KURTLAR VADİSİ"
+        ]
+    },
+    {
+        "ana_kelime": "BAMYA",
+        "alt_kelimeler": [
+            "SEBZE",
+            "YEŞİL",
+            "TÜYLÜ",
+            "KÜÇÜK",
+            "SALYA"
+        ]
+    },
+    {
+        "ana_kelime": "NASIR",
+        "alt_kelimeler": [
+            "AYAK",
+            "YARA",
+            "SERTLEŞMEK",
+            "AYAKKABI",
+            "KALP"
+        ]
+    },
+    {
+        "ana_kelime": "AYŞEKADIN",
+        "alt_kelimeler": [
+            "FASULYE",
+            "SEBZE",
+            "YEŞİL",
+            "İSİM",
+            "ERKEK"
+        ]
+    },
+    {
+        "ana_kelime": "BÜYÜKAYI",
+        "alt_kelimeler": [
+            "YILDIZ KÜMESİ",
+            "KÜÇÜK",
+            "HAYVAN",
+            "GECE",
+            "AY"
+        ]
+    },
+    {
+        "ana_kelime": "BALMUMU",
+        "alt_kelimeler": [
+            "MUM",
+            "ERİMEK",
+            "HEYKEL",
+            "MÜZE",
+            "BAL"
+        ]
+    },
+    {
+        "ana_kelime": "FERMUAR",
+        "alt_kelimeler": [
+            "PANTOLON",
+            "MONT",
+            "GİYSİ",
+            "KIYAFET",
+            "KOT"
+        ]
+    },
+    {
+        "ana_kelime": "DİPSİZ KUYU",
+        "alt_kelimeler": [
+            "MUAMMA",
+            "BİLİNMEYEN",
+            "KARANLIK",
+            "FİLM",
+            "THE RING"
+        ]
+    },
+    {
+        "ana_kelime": "KÖLE",
+        "alt_kelimeler": [
+            "ISAURA",
+            "ESİR",
+            "HAPİSHANE",
+            "PRANGA",
+            "TUTSAK"
+        ]
+    },
+    {
+        "ana_kelime": "MAYIN",
+        "alt_kelimeler": [
+            "BASMAK",
+            "PATLAMA",
+            "SAVAŞ",
+            "TERÖRİST",
+            "BOMBA"
+        ]
+    },
+    {
+        "ana_kelime": "ŞEKERLEME",
+        "alt_kelimeler": [
+            "ŞEKER",
+            "BONBON",
+            "TATLI",
+            "LOKUM",
+            "UYUKLAMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ARI",
+        "alt_kelimeler": [
+            "SAF",
+            "HALİS",
+            "KATIŞIKSIZ",
+            "YALIN",
+            "HAYVAN"
+        ]
+    },
+    {
+        "ana_kelime": "KELEBEK",
+        "alt_kelimeler": [
+            "RENKLİ",
+            "UÇMAK",
+            "TIRTIL",
+            "KOZA",
+            "HAYVAN"
+        ]
+    },
+    {
+        "ana_kelime": "UĞUR BÖCEĞİ",
+        "alt_kelimeler": [
+            "HAYVAN",
+            "UÇMAK",
+            "BENEK",
+            "KIRMIZI",
+            "KANAT"
+        ]
+    },
+    {
+        "ana_kelime": "SİGARA",
+        "alt_kelimeler": [
+            "İÇMEK",
+            "ZARAR",
+            "KANSER",
+            "CİĞER",
+            "DUMAN"
+        ]
+    },
+    {
+        "ana_kelime": "ORUÇ TUTMAK",
+        "alt_kelimeler": [
+            "RAMAZAN",
+            "BAYRAM",
+            "ŞEKER",
+            "KURBAN",
+            "MÜSLÜMAN"
+        ]
+    },
+    {
+        "ana_kelime": "KLİMA",
+        "alt_kelimeler": [
+            "SOBA",
+            "KALORİFER",
+            "DUVAR",
+            "YAZ",
+            "SICAK"
+        ]
+    },
+    {
+        "ana_kelime": "PLAY STATİON",
+        "alt_kelimeler": [
+            "BİLGİSAYAR",
+            "OYUN",
+            "JOY STİCK",
+            "TELEVİZYON",
+            "ATARİ"
+        ]
+    },
+    {
+        "ana_kelime": "DİGİTÜRK",
+        "alt_kelimeler": [
+            "PARALI",
+            "KABLO TV",
+            "ÜYELİK",
+            "PAKET",
+            "TELEVİZYON"
+        ]
+    },
+    {
+        "ana_kelime": "TAKVİM",
+        "alt_kelimeler": [
+            "GÜN",
+            "AY",
+            "YIL",
+            "YAPRAK",
+            "SAYI"
+        ]
+    },
+    {
+        "ana_kelime": "DİŞ",
+        "alt_kelimeler": [
+            "ISIRMAK",
+            "DOLGU",
+            "AZI",
+            "ÇİĞNEMEK",
+            "AĞIZ"
+        ]
+    },
+    {
+        "ana_kelime": "GELİNLİK",
+        "alt_kelimeler": [
+            "DAMAT",
+            "DÜĞÜN",
+            "DANTEL",
+            "DUVAK",
+            "BEYAZ"
+        ]
+    },
+    {
+        "ana_kelime": "RAKI",
+        "alt_kelimeler": [
+            "ASLAN SÜTÜ",
+            "ANASON",
+            "ALKOLLÜ İÇECEK",
+            "BUZ",
+            "MEZE"
+        ]
+    },
+    {
+        "ana_kelime": "LİKİT FON",
+        "alt_kelimeler": [
+            "PARA",
+            "BANKA",
+            "SIVI",
+            "HESAP",
+            "YATIRIM"
+        ]
+    },
+    {
+        "ana_kelime": "CUMHURİYET",
+        "alt_kelimeler": [
+            "GAZETE",
+            "ATATÜRK",
+            "YÖNETİM",
+            "29 Ekim ",
+            "DEVLET"
+        ]
+    },
+    {
+        "ana_kelime": "GÜNEŞ",
+        "alt_kelimeler": [
+            "AY",
+            "DOKTOR",
+            "GECE-GÜNDÜZ",
+            "DÜNYA",
+            "YILDIZ"
+        ]
+    },
+    {
+        "ana_kelime": "OKUL",
+        "alt_kelimeler": [
+            "SIRA",
+            "ÖĞRETMEN",
+            "HADEME",
+            "SINIF",
+            "ÖĞRENCİ"
+        ]
+    },
+    {
+        "ana_kelime": "APARTMAN",
+        "alt_kelimeler": [
+            "DAİRE",
+            "KAPICI",
+            "ASANSÖR",
+            "OTOMATİK",
+            "KİRACI"
+        ]
+    },
+    {
+        "ana_kelime": "OKEY",
+        "alt_kelimeler": [
+            "TAŞ",
+            "ZAR",
+            "ISTAKA",
+            "DÖNMEK",
+            "GÖSTERGE"
+        ]
+    },
+    {
+        "ana_kelime": "MUTFAK",
+        "alt_kelimeler": [
+            "TENCERE",
+            "ÇAYDANLIK",
+            "YEMEK",
+            "OCAK",
+            "KAŞIK"
+        ]
+    },
+    {
+        "ana_kelime": "KALEMLİK",
+        "alt_kelimeler": [
+            "KALEM",
+            "SİLGİ",
+            "KALEMTRAŞ",
+            "ATAÇ",
+            "KALEM UCU"
+        ]
+    },
+    {
+        "ana_kelime": "TEKERLEK",
+        "alt_kelimeler": [
+            "TAŞIT",
+            "YUVARLAK",
+            "LASTİK ",
+            "SİBOP",
+            "YASAK"
+        ]
+    },
+    {
+        "ana_kelime": "KOLTUK",
+        "alt_kelimeler": [
+            "OTURMAK",
+            "ODA",
+            "MİNDER",
+            "DERİ",
+            "SANDALYE"
+        ]
+    },
+    {
+        "ana_kelime": "MASA ",
+        "alt_kelimeler": [
+            "YEMEK",
+            "AYAK",
+            "ÖRTÜ",
+            "MUTFAK",
+            "SALON"
+        ]
+    },
+    {
+        "ana_kelime": "ANNE",
+        "alt_kelimeler": [
+            "SEVEN",
+            "KORUYAN",
+            "DÜNYADA BİR TANE",
+            "ÇOCUK",
+            "BABA"
+        ]
+    },
+    {
+        "ana_kelime": "YAZI",
+        "alt_kelimeler": [
+            "KALEM",
+            "KAĞIT",
+            "HARF",
+            "RAKAM",
+            "KELİME"
+        ]
+    },
+    {
+        "ana_kelime": "EMEK",
+        "alt_kelimeler": [
+            "ALIN TERİ",
+            "EL EMEĞİ",
+            "GÜÇ",
+            "HİMMET",
+            "İŞ"
+        ]
+    },
+    {
+        "ana_kelime": "AĞAÇ",
+        "alt_kelimeler": [
+            "DAL",
+            "YAPRAK",
+            "TIRTIL",
+            "MEYVE",
+            "YEŞİL"
+        ]
+    },
+    {
+        "ana_kelime": "BEBEK",
+        "alt_kelimeler": [
+            "ANNE",
+            "BEZ",
+            "EMZİK",
+            "KOKU",
+            "ANGA"
+        ]
+    },
+    {
+        "ana_kelime": "KRAL",
+        "alt_kelimeler": [
+            "KRALİÇE",
+            "TAHT",
+            "ASKER",
+            "CARİYE",
+            "ŞATO"
+        ]
+    },
+    {
+        "ana_kelime": "MALA",
+        "alt_kelimeler": [
+            "İNŞAAT",
+            "DUVAR",
+            "USTA",
+            "SIVA",
+            "ÇİMENTO"
+        ]
+    },
+    {
+        "ana_kelime": "EBE",
+        "alt_kelimeler": [
+            "HASTA(HANE)",
+            "BEBEK",
+            "DOGUM",
+            "DUNYA",
+            "KÖR"
+        ]
+    },
+    {
+        "ana_kelime": "KAPAN",
+        "alt_kelimeler": [
+            "AV",
+            "KURT",
+            "HAVYAN",
+            "TUZAK",
+            "FARE"
+        ]
+    },
+    {
+        "ana_kelime": "ŞİMŞEK",
+        "alt_kelimeler": [
+            "ÇAKMASI",
+            "GÖK GÜRÜLTÜSÜ",
+            "BULUT",
+            "IŞIK",
+            "YAĞMUR"
+        ]
+    },
+    {
+        "ana_kelime": "MONT",
+        "alt_kelimeler": [
+            "SOĞUK",
+            "KIŞ",
+            "KAR",
+            "YAĞMUR",
+            "ÜŞÜMEK"
+        ]
+    },
+    {
+        "ana_kelime": "KIRMIZI",
+        "alt_kelimeler": [
+            "DOMATES",
+            "BOĞA",
+            "RENK",
+            "AL",
+            "UTANMAK"
+        ]
+    },
+    {
+        "ana_kelime": "AŞK",
+        "alt_kelimeler": [
+            "SEVMEK",
+            "SEVGİLİ",
+            "FLÖRT",
+            "HİS",
+            "İLİŞKİ"
+        ]
+    },
+    {
+        "ana_kelime": "KAVGA",
+        "alt_kelimeler": [
+            "BAĞIRMAK",
+            "TARTIŞMAK",
+            "KIZMAK",
+            "SİNİRLENMEK",
+            "KÜSMEK"
+        ]
+    },
+    {
+        "ana_kelime": "NEVRESİM",
+        "alt_kelimeler": [
+            "ÇARŞAF",
+            "YATAK ",
+            "UYKU",
+            "TAKIM",
+            "ÖRTMEK"
+        ]
+    },
+    {
+        "ana_kelime": "ÇAKMAK",
+        "alt_kelimeler": [
+            "SİGARA",
+            "ATEŞ",
+            "YAKMAK",
+            "ZİPPO",
+            "KİBRİT"
+        ]
+    },
+    {
+        "ana_kelime": "YELKOVAN",
+        "alt_kelimeler": [
+            "SAAT",
+            "ZAMAN",
+            "SÜRE",
+            "AKREP",
+            "DAKİKA"
+        ]
+    },
+    {
+        "ana_kelime": "PERDE",
+        "alt_kelimeler": [
+            "CAM",
+            "TÜL",
+            "PENCERE",
+            "GECE",
+            "KORNİŞ"
+        ]
+    },
+    {
+        "ana_kelime": "ZIMBA",
+        "alt_kelimeler": [
+            "KAĞIT",
+            "TEL",
+            "BİRLEŞTİRMEK",
+            "DELGEÇ",
+            "KIRTASİYE"
+        ]
+    },
+    {
+        "ana_kelime": "DELGEÇ",
+        "alt_kelimeler": [
+            "KAĞIT",
+            "DELMEK",
+            "ZIMBA",
+            "KIRTASİYE",
+            "DELİK"
+        ]
+    },
+    {
+        "ana_kelime": "KLAVYE",
+        "alt_kelimeler": [
+            "BİLGİSAYAR",
+            "MAUSE",
+            "YAZMAK",
+            "HARF",
+            "MSN"
+        ]
+    },
+    {
+        "ana_kelime": "ZARF",
+        "alt_kelimeler": [
+            "MEKTUP",
+            "POSTA",
+            "MAİL",
+            "YAZMAK",
+            "ASKER"
+        ]
+    },
+    {
+        "ana_kelime": "KARTAL",
+        "alt_kelimeler": [
+            "KUŞ",
+            "FUTBOL TAKIMI",
+            "KAFES",
+            "YIRTICI",
+            "KARA"
+        ]
+    },
+    {
+        "ana_kelime": "MUTFAK",
+        "alt_kelimeler": [
+            "YEMEK",
+            "SOFRA",
+            "HAZIRLAMAK",
+            "FIRIN",
+            "PİŞİRMEK"
+        ]
+    },
+    {
+        "ana_kelime": "PRİZ",
+        "alt_kelimeler": [
+            "ELEKTRİK",
+            "FİŞ",
+            "KABLO",
+            "KONTROL KALEMİ",
+            "TAMİRCİ"
+        ]
+    },
+    {
+        "ana_kelime": "HALI",
+        "alt_kelimeler": [
+            "EV",
+            "YÜRÜMEK",
+            "AYAK",
+            "AYAKKABI",
+            "YER"
+        ]
+    },
+    {
+        "ana_kelime": "ÖDEV",
+        "alt_kelimeler": [
+            "DERS",
+            "ÇALIŞMAK",
+            "OKUL",
+            "ÖĞRETMEN",
+            "EV"
+        ]
+    },
+    {
+        "ana_kelime": "YÜZÜK",
+        "alt_kelimeler": [
+            "PARMAK",
+            "TAKI",
+            "EVLİLİK",
+            "NİKAH",
+            "NİŞAN"
+        ]
+    },
+    {
+        "ana_kelime": "İT",
+        "alt_kelimeler": [
+            "KÖPEK",
+            "KÜFÜR",
+            "KOVALAMAK",
+            "ISIRMAK",
+            "TASMA"
+        ]
+    },
+    {
+        "ana_kelime": "BEBEK",
+        "alt_kelimeler": [
+            "DOĞUM",
+            "ÇOCUK",
+            "UFAK",
+            "AĞLAMAK",
+            "ZIBIN"
+        ]
+    },
+    {
+        "ana_kelime": "MAİL",
+        "alt_kelimeler": [
+            "MEKTUP",
+            "İNTERNET",
+            "YOLLAMAK",
+            "BİLGİSAYAR",
+            "İLETMEK"
+        ]
+    },
+    {
+        "ana_kelime": "SIR",
+        "alt_kelimeler": [
+            "YASAK",
+            "ANLATMAK",
+            "GİZLİ",
+            "PAYLAŞMAK",
+            "SAKLAMAK"
+        ]
+    },
+    {
+        "ana_kelime": "KOZA",
+        "alt_kelimeler": [
+            "KELEBEK",
+            "UÇMAK",
+            "BÖCEK",
+            "KANAT",
+            "TIRTIL"
+        ]
+    },
+    {
+        "ana_kelime": "BABAFİNGO",
+        "alt_kelimeler": [
+            "BABA",
+            "GEMİ",
+            "KALYON",
+            "YELKEN",
+            "DİREK"
+        ]
+    },
+    {
+        "ana_kelime": "EXCEL",
+        "alt_kelimeler": [
+            "HUCRE",
+            "TABLO",
+            "MS OFFICE",
+            "BILL GATES",
+            "WORD"
+        ]
+    },
+    {
+        "ana_kelime": "TANGO",
+        "alt_kelimeler": [
+            "ARJANTIN",
+            "DANS",
+            "LATIN",
+            "AL PACINO",
+            "TUTKU"
+        ]
+    },
+    {
+        "ana_kelime": "ABAJUR",
+        "alt_kelimeler": [
+            "LAMBA",
+            "ISIK",
+            "AMPUL",
+            "ELEKTRIK",
+            "YASAK"
+        ]
+    },
+    {
+        "ana_kelime": "AYI",
+        "alt_kelimeler": [
+            "YOGI",
+            "KUTUP",
+            "BOZ",
+            "ARMUT",
+            "HAYVAN"
+        ]
+    },
+    {
+        "ana_kelime": "SIFONYER",
+        "alt_kelimeler": [
+            "CEKMECE",
+            "YASAK",
+            "YASAK",
+            "YASAK",
+            "YASAK"
+        ]
+    },
+    {
+        "ana_kelime": "FATIH SULTAN MEHMET",
+        "alt_kelimeler": [
+            "ISTANBUL",
+            "PADISAH",
+            "OSMANLI",
+            "GEMI",
+            "FETIH"
+        ]
+    },
+    {
+        "ana_kelime": "HOLLANDA",
+        "alt_kelimeler": [
+            "LALE",
+            "TAHTA",
+            "DEGIRMEN",
+            "AMSTERDAM",
+            "ULKE"
+        ]
+    },
+    {
+        "ana_kelime": "BALINA",
+        "alt_kelimeler": [
+            "MAVI",
+            "HAYVAN",
+            "DENIZ",
+            "MEMELI",
+            "SU"
+        ]
+    },
+    {
+        "ana_kelime": "POKER",
+        "alt_kelimeler": [
+            "KUMAR",
+            "BAHIS",
+            "TEXAS",
+            "KART",
+            "ISKAMBIL"
+        ]
+    },
+    {
+        "ana_kelime": "MP3",
+        "alt_kelimeler": [
+            "BILGISAYAR",
+            "SARKI",
+            "MUZIK",
+            "INDIRMEK",
+            "PROGRAM"
+        ]
+    },
+    {
+        "ana_kelime": "NOSTRADAMUS",
+        "alt_kelimeler": [
+            "KAHIN",
+            "KEHANET",
+            "FRANSA",
+            "MUNECCIM",
+            "KITAP"
+        ]
+    },
+    {
+        "ana_kelime": "SAMDAN",
+        "alt_kelimeler": [
+            "MUM",
+            "ATES",
+            "ISIK",
+            "METAL",
+            "YAKMAK"
+        ]
+    },
+    {
+        "ana_kelime": "AMBULANS",
+        "alt_kelimeler": [
+            "HASTANE",
+            "ACIL",
+            "ARAC",
+            "HASTA ",
+            "SIREN"
+        ]
+    },
+    {
+        "ana_kelime": "JUPITER",
+        "alt_kelimeler": [
+            "ZEUS",
+            "GEZEGEN",
+            "DUNYA",
+            "KUYRUKLU YILDIZ",
+            "BUYUK"
+        ]
+    },
+    {
+        "ana_kelime": "AKVARYUM",
+        "alt_kelimeler": [
+            "BALIK",
+            "CAM",
+            "FILTRE",
+            "SU",
+            "DENIZ"
+        ]
+    },
+    {
+        "ana_kelime": "ORUMCEK",
+        "alt_kelimeler": [
+            "AG",
+            "SINEK",
+            "ADAM",
+            "TARANTULA",
+            "BACAK"
+        ]
+    },
+    {
+        "ana_kelime": "KUPE",
+        "alt_kelimeler": [
+            "KULAK",
+            "AKSESUAR",
+            "DELIK",
+            "HALKA",
+            "DELI "
+        ]
+    },
+    {
+        "ana_kelime": "MUSLUK",
+        "alt_kelimeler": [
+            "SU",
+            "LAVABO",
+            "BULASIK",
+            "BANYO",
+            "MUTFAK"
+        ]
+    },
+    {
+        "ana_kelime": "RADYO",
+        "alt_kelimeler": [
+            "MÜZİK",
+            "İSTASYON",
+            "FREKANS(KANAL)",
+            "DJ",
+            "CANLI YAYIN"
+        ]
+    },
+    {
+        "ana_kelime": "OJE",
+        "alt_kelimeler": [
+            "ASETON",
+            "TIRNAK",
+            "MANİKÜR-PEDİKÜR",
+            "TORPÜ",
+            "EL"
+        ]
+    },
+    {
+        "ana_kelime": "KABUS",
+        "alt_kelimeler": [
+            "UYUMAK",
+            "YATAK",
+            "DÜŞ",
+            "RÜYA",
+            "KORKU"
+        ]
+    },
+    {
+        "ana_kelime": "SİGARA",
+        "alt_kelimeler": [
+            "TÜTÜN",
+            "NİKOTİN",
+            "KÜLLÜK",
+            "İZMARİT",
+            "KİBRİT-ÇAKMAK"
+        ]
+    },
+    {
+        "ana_kelime": "DOĞUMGÜNÜ",
+        "alt_kelimeler": [
+            "PASTA",
+            "MUM",
+            "HEDİYE",
+            "YAŞ",
+            "PARTİ"
+        ]
+    },
+    {
+        "ana_kelime": "İLAÇ",
+        "alt_kelimeler": [
+            "PROSPEKTÜS",
+            "SAĞLIK",
+            "ECZANE",
+            "DOKTOR",
+            "REÇETE"
+        ]
+    },
+    {
+        "ana_kelime": "SAAT",
+        "alt_kelimeler": [
+            "YELKOVAN",
+            "AKREP",
+            "ZAMAN",
+            "GÜN",
+            "ALARM"
+        ]
+    },
+    {
+        "ana_kelime": "KİTAP",
+        "alt_kelimeler": [
+            "SAYFA",
+            "ROMAN",
+            "HİKAYE",
+            "AYRAÇ",
+            "ŞİİR"
+        ]
+    },
+    {
+        "ana_kelime": "SONBAHAR",
+        "alt_kelimeler": [
+            "MEVSİM",
+            "YAPRAK",
+            "AYLAR",
+            "BAHAR",
+            "HÜZÜN"
+        ]
+    },
+    {
+        "ana_kelime": "MALA",
+        "alt_kelimeler": [
+            "İNŞAAT",
+            "DUVAR",
+            "SIVA",
+            "USTA",
+            "ÇİMENTO"
+        ]
+    },
+    {
+        "ana_kelime": "HİPODROM",
+        "alt_kelimeler": [
+            "VELİ EFENDİ",
+            "AT",
+            "YARIŞ",
+            "KOŞU",
+            "JOKEY"
+        ]
+    },
+    {
+        "ana_kelime": "PANTOLON",
+        "alt_kelimeler": [
+            "AYAK",
+            "JEANS",
+            "KUMAŞ",
+            "FERMUAR",
+            "DÜĞME"
+        ]
+    },
+    {
+        "ana_kelime": "TEHLİKE",
+        "alt_kelimeler": [
+            "UYARI",
+            "İKAZ",
+            "ALARM",
+            "YASAK",
+            "ÖLÜM"
+        ]
+    },
+    {
+        "ana_kelime": "PALET",
+        "alt_kelimeler": [
+            "DENİZ",
+            "AYAK",
+            "BALIK",
+            "DALGIÇ",
+            "RESİM"
+        ]
+    },
+    {
+        "ana_kelime": "TAVŞAN",
+        "alt_kelimeler": [
+            "HAVUÇ",
+            "DİŞLEK",
+            "UZUN KULAK ",
+            "BUGS BUNNY",
+            "ÇİZGİ FİLM"
+        ]
+    },
+    {
+        "ana_kelime": "SİGARA",
+        "alt_kelimeler": [
+            "TÜTÜN",
+            "İÇİNE ÇEKMEK",
+            "ÇAKMAK",
+            "PAKET",
+            "KÜLTABLASI"
+        ]
+    },
+    {
+        "ana_kelime": "AĞDA",
+        "alt_kelimeler": [
+            "KIL",
+            "BACAK",
+            "KADIN",
+            "KUAFÖR/BERBER",
+            "SESU"
+        ]
+    },
+    {
+        "ana_kelime": "ETEK",
+        "alt_kelimeler": [
+            "KUMAŞ",
+            "DİKİŞ",
+            "TERZİ",
+            "İSKOÇ",
+            "GİYSİ"
+        ]
+    },
+    {
+        "ana_kelime": "MİCHAEL JACKSON",
+        "alt_kelimeler": [
+            "ZENCİ",
+            "ŞARKICI",
+            "TACİZ",
+            "RENK DEĞİŞTİRMEK",
+            "JANET JACKSON"
+        ]
+    },
+    {
+        "ana_kelime": "AJANDA",
+        "alt_kelimeler": [
+            "TAKVİM",
+            "EŞANTİYON",
+            "TARİH",
+            "TELEFON REHPERİ",
+            "YILBAŞI"
+        ]
+    },
+    {
+        "ana_kelime": "SAÇ",
+        "alt_kelimeler": [
+            "KUAFÖR/BERBER",
+            "ERKEK/KADIN",
+            "FÖN",
+            "KESTİRMEK",
+            "BOYATMAK"
+        ]
+    },
+    {
+        "ana_kelime": "SAC",
+        "alt_kelimeler": [
+            "METAL",
+            "GALVANİZ",
+            "İTALYAN",
+            "İSPANYOL",
+            "KAVURMA"
+        ]
+    },
+    {
+        "ana_kelime": "HOPARLÖR",
+        "alt_kelimeler": [
+            "BİLGİSAYAR",
+            "SES",
+            "MÜZİK",
+            "TV",
+            "RADYO"
+        ]
+    },
+    {
+        "ana_kelime": "KIRBAÇ",
+        "alt_kelimeler": [
+            "KOVBOY",
+            "AT ARABASI",
+            "FANTAZİ",
+            "DERİ",
+            "İŞKENCE"
+        ]
+    },
+    {
+        "ana_kelime": "KLAVYE",
+        "alt_kelimeler": [
+            "MOUSE",
+            "PC",
+            "TUŞ",
+            "KABLO",
+            "HARF/SAYI"
+        ]
+    },
+    {
+        "ana_kelime": "YUMURTA",
+        "alt_kelimeler": [
+            "KAHVALTI",
+            "TAVUK",
+            "CİVCİV",
+            "KULUÇKA",
+            "SAHAN"
+        ]
+    },
+    {
+        "ana_kelime": "HÜLYA AVŞAR",
+        "alt_kelimeler": [
+            "SİNEMA",
+            "SANATÇI",
+            "MAVİ GÖZ",
+            "HELİN",
+            "KAYA"
+        ]
+    },
+    {
+        "ana_kelime": "SANDAL",
+        "alt_kelimeler": [
+            "SEFA",
+            "DENİZ",
+            "KÜREK",
+            "BALIKÇI",
+            "MOTOR"
+        ]
+    },
+    {
+        "ana_kelime": "CESET",
+        "alt_kelimeler": [
+            "ÖLÜ",
+            "CİNAYET",
+            "KATİL",
+            "OTOPSİ",
+            "ADLİ TABİP"
+        ]
+    },
+    {
+        "ana_kelime": "RECEP TAYİP ERDOĞAN",
+        "alt_kelimeler": [
+            "BAŞBAKAN",
+            "HÜKÜMET",
+            "AK PARTİ",
+            "KASIMPAŞA",
+            "EMİNE ERDOĞAN"
+        ]
+    },
+    {
+        "ana_kelime": "KATALOG",
+        "alt_kelimeler": [
+            "RESİM",
+            "FİRMA/İŞYERİ",
+            "AJANS",
+            "MANKEN",
+            "ÜRÜN"
+        ]
+    },
+    {
+        "ana_kelime": "TOKA",
+        "alt_kelimeler": [
+            "KAFA",
+            "SAÇ",
+            "KUAFÖR",
+            "BİJUTERİ",
+            "ÇOCUK"
+        ]
+    },
+    {
+        "ana_kelime": "TİYATRO",
+        "alt_kelimeler": [
+            "OYUNCU",
+            "SAHNE",
+            "PERDE",
+            "YÖNETMEN",
+            "OYUN"
+        ]
+    },
+    {
+        "ana_kelime": "DENİZ",
+        "alt_kelimeler": [
+            "TUZLU SU",
+            "YAZ",
+            "TATİL",
+            "GEMİ/YAT/VAPUR",
+            "MAYO"
+        ]
+    },
+    {
+        "ana_kelime": "HAMAM BÖCEĞİ",
+        "alt_kelimeler": [
+            "BANYO",
+            "YIKANMAK/DUŞALMAK",
+            "HAŞARE",
+            "KARAFATMA",
+            "KUMKAPI/LANGA"
+        ]
+    },
+    {
+        "ana_kelime": "ZARF",
+        "alt_kelimeler": [
+            "MEKTUP",
+            "FATURA",
+            "POSTAHANE",
+            "POSTACI",
+            "SINAV SONUÇ"
+        ]
+    },
+    {
+        "ana_kelime": "MAKAS",
+        "alt_kelimeler": [
+            "KAĞIT",
+            "KESMEK",
+            "KUMAŞ",
+            "TERZİ",
+            "NİŞAN"
+        ]
+    },
+    {
+        "ana_kelime": "FATURA",
+        "alt_kelimeler": [
+            "FİŞ",
+            "FİRMA",
+            "KDV",
+            "EMEKLİ",
+            "İRSALİYE"
+        ]
+    },
+    {
+        "ana_kelime": "ARI",
+        "alt_kelimeler": [
+            "BAL",
+            "PETEK/KOVAN",
+            "BALPARMAK",
+            "AYI",
+            "MAYA"
+        ]
+    },
+    {
+        "ana_kelime": "HAKİM",
+        "alt_kelimeler": [
+            "AVUKAT",
+            "MAHKEME",
+            "SUÇLU",
+            "OLAY",
+            "KONTOL ALINA ALMAK"
+        ]
+    },
+    {
+        "ana_kelime": "ÖRGÜ",
+        "alt_kelimeler": [
+            "KAZAK",
+            "ATKI",
+            "ŞİŞ",
+            "YÜN",
+            "NİNE"
+        ]
+    },
+    {
+        "ana_kelime": "GEBE",
+        "alt_kelimeler": [
+            "HAMİLE",
+            "BEBEK",
+            "DOĞURMAK/DOĞMAK",
+            "EBE",
+            "BORÇLU KALMAK"
+        ]
+    },
+    {
+        "ana_kelime": "HAÇ",
+        "alt_kelimeler": [
+            "HIRİSTİYAN",
+            "ÇAĞLA ŞIKEL",
+            "ARTI İŞARETİ",
+            "İSA",
+            "ÇARMIH"
+        ]
+    },
+    {
+        "ana_kelime": "KALEMLİK",
+        "alt_kelimeler": [
+            "KALEM",
+            "OKUL",
+            "ÖĞRECİ",
+            "YAZI",
+            "MASA ÜZERİ"
+        ]
+    },
+    {
+        "ana_kelime": "ŞEMSİYE",
+        "alt_kelimeler": [
+            "YAĞUR",
+            "EŞANTİYON",
+            "GÖK GÜRÜLTÜSÜ",
+            "YAZ",
+            "YAĞMURLUK"
+        ]
+    },
+    {
+        "ana_kelime": "KLOZET",
+        "alt_kelimeler": [
+            "TUVALET",
+            "ALAFRANGA",
+            "SİFON",
+            "ÇİŞ/KAKA",
+            "İHTİYAÇ"
+        ]
+    },
+    {
+        "ana_kelime": "CAMİ",
+        "alt_kelimeler": [
+            "İMAM",
+            "MÜSLÜMAN",
+            "KİLİSE",
+            "İBADET",
+            "NAMAZ"
+        ]
+    },
+    {
+        "ana_kelime": "FOTOKOPİ",
+        "alt_kelimeler": [
+            "KOPYA",
+            "MAKİNE",
+            "FAX",
+            "SCANNER",
+            "KIRTASİYE"
+        ]
+    },
+    {
+        "ana_kelime": "VAZO",
+        "alt_kelimeler": [
+            "ÇİÇEK",
+            "SU",
+            "HEDİYE",
+            "BUKET",
+            "ÇİÇEKÇİ"
+        ]
+    },
+    {
+        "ana_kelime": "MODEM",
+        "alt_kelimeler": [
+            "İNTERNET",
+            "ADSL",
+            "WİRELESS",
+            "FAX",
+            "BİLGİSAYAR"
+        ]
+    },
+    {
+        "ana_kelime": "UD",
+        "alt_kelimeler": [
+            "FASIL/SANAT MÜZİĞİ",
+            "MÜZİK ALETİ",
+            "SAZ",
+            "GİTAR",
+            "MÜZİK KURSU"
+        ]
+    },
+    {
+        "ana_kelime": "BAĞLAMA",
+        "alt_kelimeler": [
+            "TÜRKÜ",
+            "ALEVİ",
+            "CEM EVİ",
+            "MÜZİK ALETİ",
+            "SAZ"
+        ]
+    },
+    {
+        "ana_kelime": "RANZA",
+        "alt_kelimeler": [
+            "YATAK/ÇOCUK YATAĞI",
+            "ALT ÜST",
+            "ASKERİYE",
+            "ODA/ÇOCUK ODASI",
+            "MOBİLYA"
+        ]
+    },
+    {
+        "ana_kelime": "REKTÖR",
+        "alt_kelimeler": [
+            "ÜNİVERSİTE",
+            "DEKAN",
+            "KAMPÜS",
+            "PROFESÖR",
+            "YÖK"
+        ]
+    },
+    {
+        "ana_kelime": "DIŞ TİCARET",
+        "alt_kelimeler": [
+            "İTHALAT",
+            "İHRACAT",
+            "YABANCI",
+            "SATMAK",
+            "ÜRÜN"
+        ]
+    },
+    {
+        "ana_kelime": "AB",
+        "alt_kelimeler": [
+            "GİRMEK",
+            "UYUM ",
+            "YASA",
+            "KIBRIS",
+            "KOPENHAG"
+        ]
+    },
+    {
+        "ana_kelime": "TABU",
+        "alt_kelimeler": [
+            "YASAK",
+            "OYUN",
+            "CİNSELLİK",
+            "SEKS",
+            "AŞMAK"
+        ]
+    },
+    {
+        "ana_kelime": "MİCRO DALGA",
+        "alt_kelimeler": [
+            "ALET",
+            "DENİZ",
+            "MUTFAK",
+            "FIRIN",
+            "ISITMAK"
+        ]
+    },
+    {
+        "ana_kelime": "CÜPPE",
+        "alt_kelimeler": [
+            "AVUKAT",
+            "KIYAFET",
+            "MEZUNİYET",
+            "KEP",
+            "TÖREN"
+        ]
+    },
+    {
+        "ana_kelime": "DONDURMA",
+        "alt_kelimeler": [
+            "SOĞUK",
+            "YAZ",
+            "SÜT",
+            "K.MARAŞ",
+            "KÜLAH"
+        ]
+    },
+    {
+        "ana_kelime": "KÜNEFE",
+        "alt_kelimeler": [
+            "PEYNİR",
+            "KADAYIF",
+            "TATLI",
+            "KAYMAK",
+            "SICAK"
+        ]
+    },
+    {
+        "ana_kelime": "ATA DEMİRER",
+        "alt_kelimeler": [
+            "KOMEDYEN",
+            "ŞİŞMAN",
+            "AVRUPA YAKASI",
+            "STAND-UP",
+            "KORSAN TV"
+        ]
+    },
+    {
+        "ana_kelime": "LATİFE",
+        "alt_kelimeler": [
+            "ATATÜRK",
+            "FİRST LADY",
+            "ÇANKAYA",
+            "İNKILAP",
+            "KADIN HAKLARI"
+        ]
+    },
+    {
+        "ana_kelime": "VİAGRA",
+        "alt_kelimeler": [
+            "KULLANMAK",
+            "İLAÇ",
+            "İKTİDARSIZLIK",
+            "ADROPOZ",
+            "YAŞLI"
+        ]
+    },
+    {
+        "ana_kelime": "OKAN BAYÜLGEN",
+        "alt_kelimeler": [
+            "GECE KUŞU",
+            "ZAGA",
+            "TELEVİZYON MAKİNASI",
+            "REKLAM",
+            "SİNEMA"
+        ]
+    },
+    {
+        "ana_kelime": "FELEK",
+        "alt_kelimeler": [
+            "KAHPE",
+            "ŞANS",
+            "ÇALMAK",
+            "HAYAT",
+            "GECE"
+        ]
+    },
+    {
+        "ana_kelime": "AİDS",
+        "alt_kelimeler": [
+            "CİNSELLİK",
+            "PREZERVATİF",
+            "KAN",
+            "KORUNMAK",
+            "ÖLÜM"
+        ]
+    }
+   
+]
